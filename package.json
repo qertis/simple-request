@@ -1,0 +1,25 @@
+{
+  "name": "simple-request",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.cjs",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/index.test.cjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qertis/simple-request.git"
+  },
+  "author": "Denis Baskovsky (https://baskovsky.ru)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/qertis/simple-request/issues"
+  },
+  "homepage": "https://github.com/qertis/simple-request#readme",
+  "dependencies": {
+    "request": "2.88.2"
+  }
+}
